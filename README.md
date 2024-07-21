@@ -1,2 +1,5 @@
-DATA SCIENTIST 
-Education
+# Student
+### Education
+Computational Biology
+### Work Experience
+JuliaHUb 
